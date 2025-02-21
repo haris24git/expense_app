@@ -4,9 +4,8 @@ import '../data/models/category_model.dart';
 
 class AppConstant{
 
-  //25-30
 
-  List<CategoryModel> mCat = [
+  static List<CategoryModel> mCat = [
     CategoryModel(cid: 1, cat_title: "Shopping", cat_img: "assets/icons/cat/hawaiian-shirt.png"),
     CategoryModel(cid: 2, cat_title: "Petrol", cat_img: "assets/icons/cat/vehicles.png"),
     CategoryModel(cid: 3, cat_title: "Mobile Recharge", cat_img: "assets/icons/cat/smartphone.png"),

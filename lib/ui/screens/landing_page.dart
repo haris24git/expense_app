@@ -1,5 +1,5 @@
-import 'package:expense_app/home.dart';
-import 'package:expense_app/main.dart';
+import 'package:expense_app/ui/screens/home.dart';
+// import 'package:expense_app//ui/screens/main.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
